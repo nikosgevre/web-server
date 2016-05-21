@@ -1,4 +1,4 @@
-package gr.uth.inf.ce325.xml_parser;
+package xml_parser;
 
 /**
  * This class represents the XML namespace. Each object of this class is a separate Namespace of the XML {@link gr.uth.inf.ce325.xml_parser.Document}.
