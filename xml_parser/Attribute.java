@@ -1,4 +1,4 @@
-package gr.uth.inf.ce325.xml_parser;
+package xml_parser;
 
 /**
  * This class represents the Attributes that every XML {@link gr.uth.inf.ce325.xml_parser.Node} may have.
