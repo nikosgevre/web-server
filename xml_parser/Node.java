@@ -1,4 +1,4 @@
-package gr.uth.inf.ce325.xml_parser;
+package xml_parser;
 
 import java.util.Iterator;
 import java.util.LinkedList;
