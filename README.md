@@ -1,7 +1,7 @@
 # web-server
 web server---
 
--How to compile the code
+* How to compile the code
 
 javac parser.java
 javac client.java
@@ -10,7 +10,7 @@ javac conn.java
 javac tester.java
 java tester <XML file>
 
--XML library
+* XML library
 
 We use an xml parser for this project.
 
